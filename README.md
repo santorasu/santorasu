@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @santorasu
-- 👀 I’m interested in freelancing 
+- 👋 Hi, I’m @santorasu 
 - 🌱 I’m currently learning Computer Science and Engineering. 
 - 💞️ I’m looking to collaborate on online Business 
 - 📫 How to reach me the top leader
