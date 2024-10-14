@@ -1,18 +1,18 @@
 # Md. Rasedul Islam
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://www.yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/md-rashedul-islam-diu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://github.com/santorasu/CV_For_SP3_Project)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-red)](rashedul.cse.engineer@gmail.com)
 
-Welcome to my GitHub portfolio! I am a skilled software engineer with expertise in [your primary programming languages or technologies]. I am passionate about building innovative solutions and contributing to open-source projects.
+Welcome to my GitHub portfolio! I am a skilled software engineer with expertise in App Development. I am passionate about building innovative solutions and contributing to open-source projects.
 
 ## Skills
 
-- **Programming Languages:** List of programming languages you are proficient in.
-- **Web Development:** List relevant web development technologies (HTML, CSS, JavaScript, etc.).
-- **Frameworks:** List of frameworks you have experience with.
-- **Database:** List of databases you are familiar with.
-- **Tools:** List of development tools you use.
+- **Programming Languages:** C, C++, Java, Python, Dart.
+- **Web Development:** HTML, CSS, JavaScript.
+- **Frameworks:** React, Django, Node.js, Bootstrap.
+- **Database:** MySQL, MongoDB, Firebase.
+- **Tools:** Git, GitHub, Visual Studio Code (VS Code), Postman, Figma.
 
 ## Projects
 
@@ -50,7 +50,7 @@ Welcome to my GitHub portfolio! I am a skilled software engineer with expertise 
 ## Contact
 
 - **Email: santorasu09@gmail.com
-- **LinkedIn: https://www.linkedin.com/in/md-rashedul-islam-02553921b/
+- **LinkedIn: https://www.linkedin.com/in/md-rashedul-islam-diu/
 - **Portfolio: https://github.com/santorasu/CV_For_SP3_Project?tab=readme-ov-file
 
 Feel free to explore my repositories to learn more about my work. If you have any questions or would like to connect, don't hesitate to reach out!
