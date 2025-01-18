@@ -1,15 +1,20 @@
-<h1 align="center">👋 Hi, I'm Md. Rashedul Islam</h1>
-<h3 align="center">🌟 Passionate App Developer from Bangladesh</h3>
+### <h1 align="center">👋 Hi, I'm Md. Rashedul Islam</h1>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=santorasu&label=Profile%20views&color=0e75b6&style=flat" alt="santorasu" /> 
+### <h3 align="center">🌟 Passionate App Developer from Bangladesh</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9F00FF&center=true&vCenter=true&width=435&lines=App+Developer;Web+Developer;Full+Stack+Developer;Coder" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santorasu&label=Profile%20views&color=0e75b6&style=flat" alt="santorasu" />
 </p>
 
 ---
 
 ### 🚀 Current Projects
-- 🔭 **[Todo App](https://github.com/santorasu/todo_app)** - A task management app to boost productivity.
+- 🔭 **[Personal Portfolio](https://github.com/santorasu/Personal_Portfolio)** - A responsive personal portfolio showcasing my work and skills.
 - 🌱 **Learning:** Flutter, Dart, Python, React, JavaScript.
+
 
 ---
 
@@ -28,45 +33,83 @@
 
 ### 📧 Get in Touch
 - Email: [rashedul.cse.engineer@gmail.com](mailto:rashedul.cse.engineer@gmail.com)
+- Phone: [+880 1785-412308](tel:+8801785412308)
+- Portfolio Website: [rashedul-portfolio.netlify.app](https://rashedul-portfolio.netlify.app)
 
 ---
 
 ### ⚡ Fun Fact
-"Because every now and then, I need to debug my life, not just my code!" 😄
+> "Because every now and then, I need to debug my life, not just my code!" 😄
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/md-rashedul-islam-diu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/santorasu2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/santo_rasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/santorasu4140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/md-rashedul-islam-diu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/santorasu2003" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/santo_rasu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/c/santorasu4140" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
-  <!-- Add any tools you want here -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <!-- Continue with more icons as needed -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,dart,flutter,firebase,mongodb" />
+  <img src="https://github.com/santorasu/santorasu/raw/main/assets/animated_coding.gif" width="40%"/>
 </p>
 
 ---
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=santorasu&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=santorasu&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=santorasu&" alt="Streak Stats" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santorasu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santorasu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+- 📱 **Mobile:** [Todo App](https://github.com/santorasu/todo_app) - A task management app to boost productivity.
+- 🌍 **Web:** [BanglaTravels](https://github.com/santorasu/BanglaTravels) - Collaborating to create a travel app.
+- 🍴 **App:** [Food Buzz](https://github.com/santorasu/food_buzz) - Looking for contributions to improve the app.
+- 🌐 **Web:** [Personal Portfolio](https://github.com/santorasu/Personal_Portfolio) - A responsive personal portfolio showcasing my work and skills.
+
+---
+### 🧠 **Machine Learning Projects**
+- 💓 [Cardiovascular Disease Prediction System](https://github.com/santorasu/Cardiovascular-Disease-Prediction-System) - A machine learning project to predict cardiovascular diseases.
+- 🩺 [Diabetes Prediction System](https://github.com/santorasu/Diabetes-Prediction-System) - A machine learning model to predict diabetes based on user data.
+- 🧮 [Calculator Projects](https://github.com/santorasu/Calculator-Projects) - A collection of various calculator applications built with different technologies.
+---
+
+### 🎨 Design Philosophy
+> "Elegant code is like good design—simple, beautiful, and functional."
+
+---
+
+## 🎯 **Goals for 2025**
+- 🚀 Launch my own **SaaS product** to enhance productivity and collaboration.
+- 📈 Increase **open-source contributions** in Flutter, React, and Node.js projects.
+- 🏆 Earn a **Google Developer Expert** badge by contributing to innovative solutions and fostering collaboration across platforms.
+
+---
+
+## 🏆 **Achievements**
+- Collaborating with diverse teams on impactful projects.
+- Contributing to the open-source community.
+
+---
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
