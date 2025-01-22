@@ -11,39 +11,53 @@
 
 ---
 
-### 🚀 Current Projects
-- 🔭 **[Personal Portfolio](https://github.com/santorasu/Personal_Portfolio)** - A responsive personal portfolio showcasing my work and skills.
-- 🌱 **Learning:** Flutter, Dart, Python, React, JavaScript.
-
-
----
-
-### 🤝 Collaboration Opportunities
-- 👯 **Seeking Collaboration on:** [BanglaTravels](https://github.com/santorasu/BanglaTravels)
-- 🤔 **Looking for Help with:** [Food Buzz](https://github.com/santorasu/food_buzz)
+### 📌 Key Highlights
+- 🚀 Passionate about creating **user-friendly applications**.
+- 🌱 Currently learning **Flutter, Dart, Python, React, JavaScript**.
+- 🧠 Working on **Machine Learning** projects like **Diabetes and Cardiovascular Disease Prediction Systems**.
+- 🎯 Aiming to launch my own **SaaS product** in 2025.
 
 ---
 
-### 📚 Explore My Work
-- 👨‍💻 **Projects:** [My GitHub Portfolio](https://github.com/santorasu)
-- 📝 **Articles:** [Bangla Kobita](https://www.bangla-kobita.com/santorasu/)
-- 📄 **Experience:** [My CV](https://github.com/santorasu/CV_For_SP3_Project)
+### 🛠️ Skills & Tools
+#### **Expertise in:**
+- **Languages:** Flutter, Dart (OOP), Python, JavaScript, React, Node.js, Java, C, C++  
+- **Frameworks:** Laravel, Django  
+- **Databases:** MySQL, MongoDB  
+- **Web Development:** HTML, CSS, Tailwind CSS  
+- **Other Skills:** Machine Learning, Data Structures  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,react,nodejs,java,c,cpp,mysql,mongodb,laravel,django,html,css,tailwind" />
+</p>
 
 ---
 
-### 📧 Get in Touch
-- Email: [rashedul.cse.engineer@gmail.com](mailto:rashedul.cse.engineer@gmail.com)
-- Phone: [+880 1785-412308](tel:+8801785412308)
-- Portfolio Website: [rashedul-portfolio.netlify.app](https://rashedul-portfolio.netlify.app)
+### 🚀 Featured Projects
+#### 🌐 **Web Development**
+- **[Personal Portfolio](https://github.com/santorasu/Personal_Portfolio):** A responsive portfolio to showcase my work and skills.
+- **[BanglaTravels](https://github.com/santorasu/BanglaTravels):** A travel application collaborating with a team.
+
+#### 📱 **Mobile Applications**
+- **[Todo App](https://github.com/santorasu/todo_app):** A task management app for boosting productivity.
+- **[Food Buzz](https://github.com/santorasu/food_buzz):** A food delivery app looking for contributions.
+
+#### 🤖 **Machine Learning Projects**
+- **[Cardiovascular Disease Prediction System](https://github.com/santorasu/Cardiovascular-Disease-Prediction-System):** Predict cardiovascular risks using ML.
+- **[Diabetes Prediction System](https://github.com/santorasu/Diabetes-Prediction-System):** Predict diabetes based on user data.
+- **[Calculator Projects](https://github.com/santorasu/Calculator-Projects):** A collection of calculator applications.
 
 ---
 
-### ⚡ Fun Fact
-> "Because every now and then, I need to debug my life, not just my code!" 😄
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santorasu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santorasu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Contact with Me
 <p align="center">
   <a href="https://linkedin.com/in/md-rashedul-islam-diu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -59,56 +73,16 @@
   </a>
 </p>
 
----
-
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,dart,flutter,firebase,mongodb" />
-  <img src="https://github.com/santorasu/santorasu/raw/main/assets/animated_coding.gif" width="40%"/>
-</p>
+- **Email:** [rashedul.cse.engineer@gmail.com](mailto:rashedul.cse.engineer@gmail.com)  
+- **Phone:** [+880 1785-412308](tel:+8801785412308)  
+- **Portfolio Website:** [rashedul-portfolio.netlify.app](https://rashedul-portfolio.netlify.app)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santorasu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santorasu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### ⚡ Fun Fact
+> "Because every now and then, I need to debug my life, not just my code!" 😄
 
 ---
-
-### 🌟 Featured Projects
-- 📱 **Mobile:** [Todo App](https://github.com/santorasu/todo_app) - A task management app to boost productivity.
-- 🌍 **Web:** [BanglaTravels](https://github.com/santorasu/BanglaTravels) - Collaborating to create a travel app.
-- 🍴 **App:** [Food Buzz](https://github.com/santorasu/food_buzz) - Looking for contributions to improve the app.
-- 🌐 **Web:** [Personal Portfolio](https://github.com/santorasu/Personal_Portfolio) - A responsive personal portfolio showcasing my work and skills.
-
----
-### 🧠 **Machine Learning Projects**
-- 💓 [Cardiovascular Disease Prediction System](https://github.com/santorasu/Cardiovascular-Disease-Prediction-System) - A machine learning project to predict cardiovascular diseases.
-- 🩺 [Diabetes Prediction System](https://github.com/santorasu/Diabetes-Prediction-System) - A machine learning model to predict diabetes based on user data.
-- 🧮 [Calculator Projects](https://github.com/santorasu/Calculator-Projects) - A collection of various calculator applications built with different technologies.
----
-
-### 🎨 Design Philosophy
-> "Elegant code is like good design—simple, beautiful, and functional."
-
----
-
-## 🎯 **Goals for 2025**
-- 🚀 Launch my own **SaaS product** to enhance productivity and collaboration.
-- 📈 Increase **open-source contributions** in Flutter, React, and Node.js projects.
-- 🏆 Earn a **Google Developer Expert** badge by contributing to innovative solutions and fostering collaboration across platforms.
-
----
-
-## 🏆 **Achievements**
-- Collaborating with diverse teams on impactful projects.
-- Contributing to the open-source community.
-
----
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
