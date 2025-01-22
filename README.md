@@ -27,9 +27,23 @@
 - **Web Development:** HTML, CSS, Tailwind CSS  
 - **Other Skills:** Machine Learning, Data Structures  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,react,nodejs,java,c,cpp,mysql,mongodb,laravel,django,html,css,tailwind" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,react,nodejs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,mongodb" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel,django,html,css,tailwind" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,9 +87,17 @@
   </a>
 </p>
 
-- **Email:** [rashedul.cse.engineer@gmail.com](mailto:rashedul.cse.engineer@gmail.com)  
-- **Phone:** [+880 1785-412308](tel:+8801785412308)  
-- **Portfolio Website:** [rashedul-portfolio.netlify.app](https://rashedul-portfolio.netlify.app)
+<p align="center">
+  <a href="mailto:rashedul.cse.engineer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+8801785412308">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  <a href="https://rashedul-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
 
 ---
 
