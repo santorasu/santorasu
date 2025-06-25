@@ -2,7 +2,7 @@
 
 ### <h3 align="center">🌟 Passionate App Developer from Bangladesh</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9F00FF&center=true&vCenter=true&width=435&lines=App+Developer;Web+Developer;Full+Stack+Developer;Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9F00FF&center=true&vCenter=true&width=435&lines=App+Developer;Web+Developer;Coder" />
 </p>
 
 <p align="center">
