@@ -65,9 +65,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santorasu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santorasu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=santorasu&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/santorasu?tab=repositories">
+    <img src="https://img.shields.io/github/stars/santorasu?style=flat&logo=github&color=yellow" />
+  </a>
+  <img src="https://img.shields.io/github/followers/santorasu?style=flat&logo=github" />
 </p>
+
 
 ---
 
