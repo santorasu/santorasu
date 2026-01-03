@@ -6,8 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santorasu&label=Profile%20views&color=0e75b6&style=flat" alt="santorasu" />
+  <img src="https://komarev.com/ghpvc/?username=santorasu&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/santorasu?tab=repositories">
+    <img src="https://img.shields.io/github/stars/santorasu?style=flat&logo=github&color=yellow" />
+  </a>
+  <a href="https://github.com/santorasu?tab=followers">
+    <img src="https://img.shields.io/github/followers/santorasu?style=flat&logo=github" />
+  </a>
 </p>
+
 
 ---
 
@@ -65,12 +72,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santorasu&label=Profile%20views&color=0e75b6&style=flat" />
-  <a href="https://github.com/santorasu?tab=repositories">
-    <img src="https://img.shields.io/github/stars/santorasu?style=flat&logo=github&color=yellow" />
-  </a>
-  <img src="https://img.shields.io/github/followers/santorasu?style=flat&logo=github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=santorasu&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+
 
 
 ---
@@ -112,5 +116,10 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=120"
+    style="width: 100%;"
+    alt="Footer"
+  />
 </p>
+
