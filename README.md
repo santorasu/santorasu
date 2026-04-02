@@ -130,18 +130,15 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santorasu&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santorasu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santorasu&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=santorasu&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santorasu&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+
+---
+
+[![Santorasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santorasu&bg_color=0d1117&color=6bdfff&line=6bdfff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
