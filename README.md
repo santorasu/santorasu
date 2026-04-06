@@ -136,9 +136,7 @@
 </p>
 
 
----
 
-[![Santorasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santorasu&bg_color=0d1117&color=6bdfff&line=6bdfff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
