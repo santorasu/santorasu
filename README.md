@@ -59,13 +59,13 @@
 ### 💼 Professional Experience
 
 #### **Flutter Developer — Softvence Delta**
-📅 **July 2024 – April 2025**
+📅 **July 2024 – Present**
 
 - Developed and delivered **20+ Flutter applications**, including client-based production apps.
 - Converted business and client requirements into **scalable, user-friendly mobile solutions**.
 - Designed and implemented **high-fidelity, responsive UI screens** with modern app flows.
 - Worked with **Google Maps, Geolocation, and dynamic data handling**.
-- Applied **Riverpod, GetX, and Clean Architecture** practices for maintainable development.
+- Applied **Riverpod, Bloc, GetX, and Clean Architecture** practices for maintainable development.
 - Ensured quality delivery through **testing, debugging, and client feedback cycles**.
 
 ---
