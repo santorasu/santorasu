@@ -59,7 +59,7 @@
 ### 💼 Professional Experience
 
 #### **Flutter Developer — Softvence Delta**
-📅 **July 2024 – Present**
+📅 **July 2025 – Present**
 
 - Developed and delivered **20+ Flutter applications**, including client-based production apps.
 - Converted business and client requirements into **scalable, user-friendly mobile solutions**.
