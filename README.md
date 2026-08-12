@@ -1,6 +1,6 @@
 ### <h1 align="center">👋 Hi, I'm Md. Rashedul Islam</h1>
 
-### <h3 align="center">🚀 Flutter Developer | Cross-Platform App Builder | Mobile App Enthusiast</h3>
+### <h3 align="center">🚀 Flutter Developer | Cross-Platform App Builder | Clean Architecture Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9F00FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cross-Platform+App+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Applications;Android+%7C+iOS+%7C+Web" />
@@ -19,27 +19,27 @@
 ---
 
 ### 📌 About Me
-- 🚀 Flutter Developer with experience building **production-ready mobile applications** for **Android, iOS, and Web**.
-- 📱 Passionate about creating **clean, scalable, and user-focused applications**.
-- 🧠 Skilled in **Flutter, Dart, Riverpod, GetX, Provider, Clean Architecture, Firebase, and REST API integration**.
-- 📍 Based in **Dhaka, Bangladesh**.
-- 🎯 Focused on building **real-world client solutions** and improving product usability through clean development practices.
+- 🚀 Specialized Flutter Developer with expertise in architecting **scalable, high-performance applications** using **Clean Architecture** and **Riverpod**.
+- 🧩 Experienced collaborating within **cross-functional teams** to deliver enterprise-grade solutions, as well as taking **full ownership of end-to-end development** — from complex REST API integrations to successful App Store & Google Play deployments.
+- 📱 Skilled in **Flutter, Dart, Riverpod, GetX, Bloc, Provider, Clean Architecture, Firebase, and REST API integration**.
+- 📍 Based in **Banasree, Dhaka, Bangladesh**.
+- 🎯 Focused on building **real-world, production-grade client solutions** with a 99%+ crash-free rate.
 
 ---
 
 ### 🛠️ Skills & Tools
 
 #### **Core Expertise**
-- **Mobile App Development:** Flutter, Dart, Cross-Platform App Development, Responsive UI
-- **State Management:** Riverpod, GetX, Provider, Bloc
-- **Architecture:** OOP, Clean Architecture, MVVM, MVP, Repository Pattern
-- **API Integration:** RESTful APIs, Dio, JSON Parsing, JWT Authentication, Error Handling
-- **Real-Time Systems:** Firebase (FCM), WebSockets (Socket.io), Push Notifications
-- **Maps & Tracking:** Google Maps, Geolocation, Real-time Location Tracking, Polyline Routing, Marker Control
-- **Payments & Subscription:** Stripe Integration, Subscription Systems, Payment Workflow
-- **Storage & Caching:** SharedPreferences, Hive, Local Caching
-- **Advanced Features:** Localization, OCR, Face Liveness Detection, AI Chatbot Integration
-- **Tools & Platforms:** Firebase, Postman, FVM, Android Studio, VS Code, Git, GitHub
+- **Programming:** Dart, Object-Oriented Programming (OOP)
+- **Framework:** Flutter
+- **Architecture:** Clean Architecture, MVVM, MVP, Repository Pattern
+- **State Management:** Riverpod, Bloc, Provider, GetX
+- **Backend Integration:** RESTful APIs, Dio, JSON Parsing, JWT Authentication
+- **Firebase:** Authentication, Cloud Firestore, Cloud Messaging (FCM), Crashlytics
+- **Local Storage:** Drift, Hive, SharedPreferences
+- **Maps & Location:** Google Maps, Geolocation, Real-time Location Tracking, Polyline Routing
+- **Advanced Features:** OCR, Face Liveness Detection, WebSockets, Stripe Payments, AI Chatbot Integration, Localization
+- **Tools & Platforms:** Android Studio, VS Code, Xcode, Postman, FVM, Git, GitHub
 
 <table align="center">
   <tr>
@@ -59,65 +59,63 @@
 ### 💼 Professional Experience
 
 #### **Flutter Developer — Softvence Delta**
-📅 **July 2025 – Present**
+📅 **July 2025 – Present** &nbsp;|&nbsp; 📍 Dhaka, Bangladesh
 
-- Developed and delivered **20+ Flutter applications**, including client-based production apps.
-- Converted business and client requirements into **scalable, user-friendly mobile solutions**.
-- Designed and implemented **high-fidelity, responsive UI screens** with modern app flows.
-- Worked with **Google Maps, Geolocation, and dynamic data handling**.
-- Applied **Riverpod, Bloc, GetX, and Clean Architecture** practices for maintainable development.
-- Ensured quality delivery through **testing, debugging, and client feedback cycles**.
+- Collaborated with a cross-functional team of developers, designers, and QA engineers to build and maintain a portfolio of **20+ production-ready Flutter applications** across Android, iOS, and Web.
+- Took primary ownership of high-impact **solo and core-team projects**, driving development from initial architecture to successful storefront deployment.
+- Integrated advanced functionalities across multiple applications, including **real-time location tracking, WebSockets, Stripe payment gateways, OCR, Face Liveness Detection, and AI chatbots**.
+- Improved app stability and user experience by implementing **Clean Architecture**, optimizing local storage, and maintaining a **99%+ crash-free rate** utilizing Firebase Crashlytics.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 📦 **Delivery Mobile Application**
-**Tech Stack:** Flutter, Riverpod, Firebase, Google Maps  
+#### 🏥 [IRClinic](https://apps.apple.com/us/app/irclinic/id6771666252) — Healthcare Rehabilitation Mobile Application
+[App Store](https://apps.apple.com/us/app/irclinic/id6771666252) · [Google Play](https://play.google.com/store/apps/details?id=com.irc.touralie)
 
-- Developed a two-sided delivery marketplace with **160+ screens** using Flutter and Clean Architecture.
-- Integrated **real-time GPS tracking, Google Maps, and polyline routing** for live delivery monitoring.
-- Implemented **Stripe payments, OTP-based delivery confirmation, and JWT-authenticated REST APIs**.
-- Added **FCM push notifications, document upload system, and multi-language localization**.
+- Architected a healthcare rehabilitation app delivering guided exercise and hydrotherapy programs to patients.
+- Engineered secure user authentication and real-time push notifications using **Firebase Authentication and FCM**.
+- Streamlined patient onboarding with robust **OTP verification** and secure document upload workflows.
+- Published and currently maintains the production application on both the **Apple App Store** and **Google Play Store**.
 
----
+#### 💧 [Aqua Leads](https://apps.apple.com/us/app/aqua-leads/id6781251827) — Lead Management & Referral Tracking App
+[App Store](https://apps.apple.com/us/app/aqua-leads/id6781251827) · [Google Play](https://play.google.com/store/apps/details?id=com.aqualeads.app)
 
-#### 🍔 **ATLISS – Cross-Platform Food Marketplace App**
+- Engineered a cross-platform Flutter application tailored for streamlined lead management and referral tracking.
+- Integrated **REST APIs via Dio** and utilized **Riverpod** for scalable state management and local data persistence.
+- Designed a responsive UI supporting complex media uploads and comprehensive profile management workflows.
+- Successfully deployed the production-ready application to both the **Apple App Store** and **Google Play Store**.
 
-- Built a food truck marketplace app with **dual-role access** for customers and vendors across **150+ screens**.
-- Integrated **Google ML Kit** for **face liveness detection** and **OCR-based ID verification**.
-- Developed **vendor analytics dashboards, subscription plans, and role-based authentication flows**.
-- Applied **Clean Architecture, Riverpod, and REST API integration** for scalable app development.
+#### 🛍️ [CartForGood](https://apps.apple.com/us/app/cartforgood/id6791826088) — Affiliate Shopping & Charity Donation App
+[App Store](https://apps.apple.com/us/app/cartforgood/id6791826088) · [Google Play](https://play.google.com/store/apps/details?id=com.cartforgood.app)
 
----
+- Engineered an affiliate shopping platform using **Clean Architecture** to redirect users to external e-commerce stores (Amazon, Walmart) to generate charity commissions.
+- Integrated robust **bilingual localization (English/Spanish)** with seamless in-app language switching.
+- Developed a dynamic social sharing module using native share intents for WhatsApp, SMS, and Email to promote monthly charitable campaigns.
+- Built a responsive interface featuring donation tracking and monthly charity impact visualization dashboards.
 
-#### 📚 **ChatterSticks – Comic Streaming Mobile App**
+#### 📦 [Delivery Mobile Application](https://drive.google.com/file/d/176jhBak5EQkmjgB8dPxdqN3Qdi916Kkx/view?usp=sharing) — Two-Sided Delivery Marketplace
+[Source Code](https://drive.google.com/file/d/176jhBak5EQkmjgB8dPxdqN3Qdi916Kkx/view?usp=sharing)
 
-- Developed a comic streaming application with **secure authentication** and smooth content browsing.
-- Implemented **JWT login/signup, OTP email verification, and password reset flow**.
-- Integrated **real-time notifications** using **Socket.io** and **Firebase Cloud Messaging (FCM)**.
-- Built a comic reader system with **episode browsing, image rendering, and reading history tracking**.
+- Developed a scalable two-sided delivery marketplace encompassing **160+ screens** using Clean Architecture.
+- Integrated **real-time GPS tracking and Google Maps** with polyline routing for live, accurate delivery monitoring.
+- Secured financial transactions and user data with **Stripe payments and JWT-authenticated REST APIs**.
+- Enhanced user engagement with **FCM push notifications** and broadened accessibility via multi-language localization.
 
----
+#### 🍔 [ATLISS](https://drive.google.com/file/d/1VeWmlQrVGPJqdNqDrkdlc0ipVSnXvsIU/view?usp=sharing) — Food Truck Marketplace Mobile Application
+[Source Code](https://drive.google.com/file/d/1VeWmlQrVGPJqdNqDrkdlc0ipVSnXvsIU/view?usp=sharing)
 
-#### 🍽️ **Hedset – Recipe & Meal Planning App**
-
-- Built a cross-platform recipe and meal planning app for **Android, iOS, and Web**.
-- Developed **personalized recipe recommendations, OTP authentication, and Stripe premium subscription flow**.
-- Integrated an **AI-powered nutritionist chatbot** and used **Hive** for local caching.
-- Applied **Riverpod, GoRouter, and Clean Architecture** for maintainable app structure.
+- Built a comprehensive food truck marketplace (**150+ screens**) featuring dual-role access for customers and vendors.
+- Leveraged **Google ML Kit** to implement **Face Liveness Detection and OCR-based ID verification** for secure vendor onboarding.
+- Constructed detailed vendor analytics dashboards, dynamic subscription plans, and role-based authentication flows.
 
 ---
 
 ### 🎓 Education
 
 #### **BSc in Computer Science and Engineering**
-**Daffodil International University**  
+**Daffodil International University**
 📅 **2021 – 2025**
-
-#### **Higher Secondary School Certificate**
-**Santhia Govt. Degree College**  
-📅 **2018 – 2020**
 
 ---
 
@@ -125,7 +123,7 @@
 
 #### **Ostad (Batch-9) — App Development with Flutter**
 - 📜 [Completion Certificate](https://ostad.app/share/certificate/c30423-md-rashedul-islam)
-- 🥇 **Result: Ranked 1st Position**
+- 🥇 [Result — Ranked 1st Position](https://ostad.app/share/certificate/c30425-md-rashedul-islam)
 
 ---
 
@@ -135,14 +133,11 @@
   <img src="https://streak-stats.demolab.com?user=santorasu&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-
-
-
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/md-rashedul-islam-diu" target="_blank">
+  <a href="https://www.linkedin.com/in/md-rashedul-islam-diu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/santorasu2003" target="_blank">
@@ -163,7 +158,7 @@
   <a href="tel:+8801785412308">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
-  <a href="https://rashedul-portfolio.netlify.app" target="_blank">
+  <a href="https://md-rashedul-islam-portfo-51322.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
